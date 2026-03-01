@@ -86,3 +86,4 @@ It reflects practical manual testing skills aligned with real-world QA processes
 
 👤 Author: Sanjana Khandare  
 Role: QA Engineer (Manual Testing Practice)
+GitHub: https://github.com/sanjanakhandare
